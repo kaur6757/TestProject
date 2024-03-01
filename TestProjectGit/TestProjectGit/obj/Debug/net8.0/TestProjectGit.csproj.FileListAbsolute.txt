@@ -1,0 +1,14 @@
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/bin/Debug/net8.0/TestProjectGit
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/bin/Debug/net8.0/TestProjectGit.deps.json
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/bin/Debug/net8.0/TestProjectGit.runtimeconfig.json
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/bin/Debug/net8.0/TestProjectGit.dll
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/bin/Debug/net8.0/TestProjectGit.pdb
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/obj/Debug/net8.0/TestProjectGit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/obj/Debug/net8.0/TestProjectGit.AssemblyInfoInputs.cache
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/obj/Debug/net8.0/TestProjectGit.AssemblyInfo.cs
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/obj/Debug/net8.0/TestProjectGit.csproj.CoreCompileInputs.cache
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/obj/Debug/net8.0/TestProjectGit.dll
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/obj/Debug/net8.0/refint/TestProjectGit.dll
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/obj/Debug/net8.0/TestProjectGit.pdb
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/obj/Debug/net8.0/TestProjectGit.genruntimeconfig.cache
+/Users/navvirk/Interactive App/TestProject/TestProjectGit/TestProjectGit/obj/Debug/net8.0/ref/TestProjectGit.dll
